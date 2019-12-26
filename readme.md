@@ -9,6 +9,6 @@
 
 ## Sobre
 
-Desenvolvido em conjunto com Thayllon Gomes https://github.com/Thayllon
+Desenvolvido por Thayllon Gomes https://github.com/Thayllon e Luis Felipe Barbosa https://github.com/LF-Barbosa
 
 
