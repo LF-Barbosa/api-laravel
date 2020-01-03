@@ -27,4 +27,3 @@ Desenvolvido por Thayllon Gomes https://github.com/Thayllon e Luis Felipe Barbos
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-teste
