@@ -1,6 +1,6 @@
 /node_modules
 /public/hot
-/public/img/
+/public/produtos/img/*.jpg
 /public/storage
 /storage/*.key
 /ven-dor
