@@ -28,6 +28,6 @@
     {{Form::label('fotoproduto', 'Foto')}}
     {{Form::file('fotoproduto', ['class' => 'form-control','id' => 'fotoproduto'])}}
     <br/>
-    {{Form::submit('Alterar', ['class' => 'btn btn-default'])}}
+    {{Form::submit('Alterar', ['class' => 'btn btn-outline-dark'])}}
     {{Form::close()}}
 @endsection
